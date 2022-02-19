@@ -25,7 +25,6 @@ namespace Week_6_api.Controllers
             }
 
             List<PunkAPI> results = JsonConvert.DeserializeObject<List<PunkAPI>>(result);
-
             return Ok(results);
         }
 
