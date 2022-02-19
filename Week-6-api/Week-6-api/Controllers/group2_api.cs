@@ -30,7 +30,7 @@ namespace Week_6_api.Controllers
             }
 
             var list = JsonConvert.DeserializeObject<DataUSA>(result);
-            return Ok(list);
+            return Ok(list.data);
         }
 
         /*public ActionResult<List<PunkAPI>> Get()
@@ -60,7 +60,7 @@ namespace Week_6_api.Controllers
 
     public class DataUSA
     {
-        List<data> contents { get; set; }
+        public List<data> data { get; set; }
     }
     public class data
     {
