@@ -33,28 +33,27 @@ namespace Week_6_api.Controllers
             return Ok(list.data);
         }
 
-        /*public ActionResult<List<PunkAPI>> Get()
+        [HttpGet(Name = "getBeerData")]
+        public ActionResult<List<PunkAPI>> GetBeerData()
         {
             HttpClient client = new HttpClient();
-            dynamic? obj = new ExpandoObject();
-
             string result;
-
+            
             try
             {
                 HttpResponseMessage response = client.GetAsync("https://api.punkapi.com/v2/beers").Result;
                 response.EnsureSuccessStatusCode();
                 result = response.Content.ReadAsStringAsync().Result;
             }
-
             catch (Exception ex)
             {
                 return BadRequest(ex.Message);
             }
 
-            var list = JsonConvert.DeserializeObject<List<PunkAPI>>(result);
-            return Ok(list);
-        }*/
+            List<PunkAPI> results = JsonConvert.DeserializeObject<List<PunkAPI>>(result);
+            return Ok(results);
+        }
+
 
     }
 
@@ -77,7 +76,7 @@ namespace Week_6_api.Controllers
         public int id { get; set; }
         public string name { get; set; }
         public string tagLine { get; set; }
-        public DateOnly firstBrewed { get; set; }
+        public DateTime firstBrewed { get; set; }
         public string description { get; set; }
     }
 }
