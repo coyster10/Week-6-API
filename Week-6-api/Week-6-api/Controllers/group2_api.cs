@@ -30,6 +30,7 @@ namespace Week_6_api.Controllers
         }
 
     }
+    
     public class DataUSA
     {
         public string IdNation { get; set; }
