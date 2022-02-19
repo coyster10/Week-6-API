@@ -71,12 +71,12 @@ namespace Week_6_api.Controllers
         public string SlugNation { get; set; }
     }
 
-    public class PunkAPI
+   public class PunkAPI
     {
-        public int id { get; set; }
-        public string name { get; set; }
-        public string tagLine { get; set; }
-        public DateTime firstBrewed { get; set; }
-        public string description { get; set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string TagLine { get; set; }
+        public DateTime FirstBrewed { get; set; }
+        public string Description { get; set; }
     }
 }
