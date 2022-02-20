@@ -63,11 +63,14 @@ namespace Week_6_api.Controllers
     }
     public class data
     {
+        [JsonProperty(PropertyName = "ID Nation")]
         public string IdNation { get; set; }
         public string Nation { get; set; }
+        [JsonProperty(PropertyName = "ID Year")]
         public int IdYear { get; set; }
         public string Year { get; set; }
         public int Population { get; set; }
+        [JsonProperty(PropertyName = "Slug Nation")]
         public string SlugNation { get; set; }
     }
 
