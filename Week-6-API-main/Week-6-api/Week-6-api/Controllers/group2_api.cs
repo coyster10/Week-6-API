@@ -68,13 +68,4 @@ namespace Week_6_api.Controllers
         [JsonProperty(PropertyName = "Slug Nation")]
         public string SlugNation { get; set; }
     }
-
-    public class PunkAPI
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string TagLine { get; set; }
-        public DateTime FirstBrewed { get; set; }
-        public string Description { get; set; }
-    }
 }
