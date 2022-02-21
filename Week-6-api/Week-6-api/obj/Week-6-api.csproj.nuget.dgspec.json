@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coyba\\Documents\\GitHub\\Week-6-API\\Week-6-api\\Week-6-api\\Week-6-api.csproj": {}
+    "C:\\Users\\spiri\\OneDrive\\Desktop\\group thing 2\\Week-6-API\\Week-6-api\\Week-6-api\\Week-6-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coyba\\Documents\\GitHub\\Week-6-API\\Week-6-api\\Week-6-api\\Week-6-api.csproj": {
+    "C:\\Users\\spiri\\OneDrive\\Desktop\\group thing 2\\Week-6-API\\Week-6-api\\Week-6-api\\Week-6-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coyba\\Documents\\GitHub\\Week-6-API\\Week-6-api\\Week-6-api\\Week-6-api.csproj",
+        "projectUniqueName": "C:\\Users\\spiri\\OneDrive\\Desktop\\group thing 2\\Week-6-API\\Week-6-api\\Week-6-api\\Week-6-api.csproj",
         "projectName": "Week-6-api",
-        "projectPath": "C:\\Users\\coyba\\Documents\\GitHub\\Week-6-API\\Week-6-api\\Week-6-api\\Week-6-api.csproj",
-        "packagesPath": "C:\\Users\\coyba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coyba\\Documents\\GitHub\\Week-6-API\\Week-6-api\\Week-6-api\\obj\\",
+        "projectPath": "C:\\Users\\spiri\\OneDrive\\Desktop\\group thing 2\\Week-6-API\\Week-6-api\\Week-6-api\\Week-6-api.csproj",
+        "packagesPath": "C:\\Users\\spiri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\spiri\\OneDrive\\Desktop\\group thing 2\\Week-6-API\\Week-6-api\\Week-6-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\coyba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\spiri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[6.0.2, )"
             },
+            "ServiceStack": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -67,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
         }
       }
     }

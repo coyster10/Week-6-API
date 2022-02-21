@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Dynamic;
 using Newtonsoft;
 using Newtonsoft.Json;
+using System.Text.Json.Nodes;
 
 namespace Week_6_api.Controllers
 {
@@ -10,7 +11,7 @@ namespace Week_6_api.Controllers
     public class group2_api : ControllerBase
     {
         [HttpGet(Name = "Data_From_USA")]
-        public ActionResult<DataUSA> Get()
+        public ActionResult Get()
         {
             HttpClient client = new HttpClient();
             dynamic? obj = new ExpandoObject();
@@ -30,9 +31,26 @@ namespace Week_6_api.Controllers
             }
 
             var list = JsonConvert.DeserializeObject<DataUSA>(result);
-            return Ok(list.data);
+            var json = new JsonObject();
+            
+            json.Add("The Total Count of Records", list.data.Count);
+
+            var max = list.data.Max(pop => pop.Population);
+            json.Add("The Maximum Population", max);
+
+            var min = list.data.Min(pop => pop.Population);
+            json.Add("The Minimum Population", min);
+
+            var mean = list.data.Average(pop => pop.Population);
+            json.Add("The Average Population", Math.Round(mean,2));
+
+
+            return Ok(json.ToString());
+
         }
     }
+
+
 
     public class DataUSA
     {
@@ -51,7 +69,7 @@ namespace Week_6_api.Controllers
         public string SlugNation { get; set; }
     }
 
-   public class PunkAPI
+    public class PunkAPI
     {
         public int Id { get; set; }
         public string Name { get; set; }

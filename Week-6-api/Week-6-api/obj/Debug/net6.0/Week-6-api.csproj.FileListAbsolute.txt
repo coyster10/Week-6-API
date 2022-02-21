@@ -29,3 +29,44 @@ C:\Users\coyba\Documents\GitHub\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.
 C:\Users\coyba\Documents\GitHub\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\ref\Week-6-api.dll
 C:\Users\coyba\Documents\GitHub\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.pdb
 C:\Users\coyba\Documents\GitHub\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.genruntimeconfig.cache
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\appsettings.json
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Week-6-api.exe
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Week-6-api.deps.json
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Week-6-api.runtimeconfig.json
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Week-6-api.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Week-6-api.pdb
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.csproj.AssemblyReference.cache
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.AssemblyInfoInputs.cache
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.AssemblyInfo.cs
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.csproj.CoreCompileInputs.cache
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\scopedcss\bundle\Week-6-api.styles.css
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.csproj.CopyComplete
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\refint\Week-6-api.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.pdb
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\Week-6-api.genruntimeconfig.cache
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\obj\Debug\net6.0\ref\Week-6-api.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\ServiceStack.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\ServiceStack.Client.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\ServiceStack.Common.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\ServiceStack.Text.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\spiri\OneDrive\Desktop\group thing 2\Week-6-API\Week-6-api\Week-6-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
